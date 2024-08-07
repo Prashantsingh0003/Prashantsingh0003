@@ -1,4 +1,8 @@
 ## Hi there 👋
+As an aspiring DevOps professional, I am eager to leverage my technical expertise and leadership experience in collaborative and innovative environments.
+My goal is to contribute to forward-thinking organizations where I can make a meaningful impact through my dedication to continuous learning and my enthusiasm for blockchain and web development.
+
+I am excited to connect with like-minded professionals and explore opportunities that align with my skills and aspirations.
 
 <!--
 **Prashantsingh0003/Prashantsingh0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
