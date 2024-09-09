@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">“Continuous learning is the key to success in the ever-evolving world of technology.”</p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/82e11540-1a59-4d7f-b817-658742855b36" alt="DevOps Image" style="max-width:100%; height:auto;">
+</p>
 
 ## 🧑‍💻 About Me
 
