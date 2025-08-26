@@ -5,55 +5,62 @@
 </p>
 
 <p align="center">“Continuous learning is the key to success in the ever-evolving world of technology.”</p>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/82e11540-1a59-4d7f-b817-658742855b36" alt="DevOps Image" style="max-width:100%; height:auto;">
-</p>
-
-## 🧑‍💻 About Me
-
-My journey began with a fascination for how technology can be leveraged to streamline processes and enhance productivity. Over the years, I’ve honed my skills in:
-
-- **Linux & Shell Scripting**: Automating system tasks and improving efficiency.
-- **AWS**: Leveraging cloud services to optimize and scale infrastructure.
-- **Containerization**: Utilizing Docker and Kubernetes to manage and scale applications.
-- **CI/CD Pipelines**: Orchestrating continuous integration and delivery with Jenkins.
-- **Infrastructure as Code**: Implementing solutions with Ansible and Terraform to provision and manage infrastructure.
-
-🌱 On a continuous journey to master DevOps practices and Cloud Technologies, my focus areas include **Linux & Shell Scripting**, **Containerization with Docker and Kubernetes**, **CI/CD pipeline orchestration using Jenkins**, and **Infrastructure as Code with Ansible and Terraform**. My goal is to drive efficiency and reliability in deployment pipelines. 🚀
-
-🤝 Open to collaboration on exciting projects and contributing to open-source initiatives. If you're looking for a passionate DevOps engineer to collaborate with, feel free to reach out!
-
-**📫 How to reach me?**
-<p align="left">
-  <a href="https://www.linkedin.com/in/prashant-singh2/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.geeksforgeeks.org/user/prashu9838/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/GeeksforGeeks-32A852?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="mailto:prashantftp03@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 ---
 
-## 🛠 Languages and Tools:
-  
+## 🧑‍💻 About Me  
+
+I am a **Java Full Stack Developer** passionate about building **scalable applications** that solve **real-world problems**.  
+My journey began with a fascination for how technology streamlines processes and enhances productivity.
+
+
+
+-  Skilled in **React.js**, **Spring Boot + JWT + MySQL**  
+-  Experienced with **Frontend (HTML, CSS, JS, React)** and **Backend (Java, Spring Boot, Hibernate, MySQL)**  
+-  Familiar with **DevOps practices** – Docker, AWS, Jenkins (to make deployments seamless)  
+-  Goal: Build impactful solutions in **Development, AI-powered applications**  
+-  Open to collaborating on **Full Stack projects**, **DevOps initiatives**, and contributing to **open-source** communities. Always eager to work on exciting ideas that make an impact feel free to reach out!!
+
+
+📫 **Reach me at**:  
+<p align="left">
+  <a href="https://www.linkedin.com/in/prashant-singh2/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:prashantftp03@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/Prashant_Sgh/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
+
+
+---
+
+## 🛠 Languages and Tools  
+
+### 💻 Development Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+### ⚙️ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Ansible-%EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/Terraform-%5C7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prashantsingh0003&show_icons=true&theme=dark" alt="Prashant's GitHub Stats">
@@ -62,16 +69,9 @@ My journey began with a fascination for how technology can be leveraged to strea
 
 ---
 
-## 📈 Contribution Streak:
+## 📈 Contribution Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantsingh0003&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prashantsingh0003&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🌟 Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantsingh0003&langs_count=8&theme=dark" alt="Top Langs">
-</p>
