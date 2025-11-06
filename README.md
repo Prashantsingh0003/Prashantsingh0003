@@ -21,6 +21,13 @@ My journey began with a fascination for how technology streamlines processes and
 -  Goal: Build impactful solutions in **Development, AI-powered applications**  
 -  Open to collaborating on **Full Stack projects**, **DevOps initiatives**, and contributing to **open-source** communities. Always eager to work on exciting ideas that make an impact feel free to reach out!!
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc5c07d2-30df-4869-91d8-486475b86f9c" 
+       alt="Cinematic_Video_Generation_with_Signature" 
+       width="600" />
+</p>
+
+
 
 📫 **Reach me at**:  
 <p align="left">
